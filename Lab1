@@ -1,1 +1,39 @@
 <!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {background-color: black;}
+
+h1{
+color: white;
+font-family: arial;
+font-size: 300px;
+}
+
+h2{
+color: white;
+text-align:left;
+font-size: 100px;
+}
+
+p{
+color: white;
+text-align: left;
+font-size: 75px;
+}
+
+</style>
+</head>
+
+<body>
+<h1> $29 </h1>
+
+<h2> New Patient Special </h2>
+<p> Includes Consultation </p>
+<p> Exam & Adjustment </p>
+
+</body>
+</html>
+
+
