@@ -12,29 +12,11 @@
    text-align: center;
  }
 
- /* Navigation */
- .navigation {
-   text-align: center;
-   padding: 10px;
- }
  /* content */
  .content {
   padding: 10px;
   text-align: center;
  }
- /*Navigation Button */
- .navigation button {
-   margin: 0px 0px;
-   padding: 0px 0px;
-   font-size: 16px;
-   border: none;
-   cursor: pointer;
-   background-color: #E6922D;
-   display: flex;
-   color: (black);
-   text-align: center;
- }
-
  /* Paragraph */
  p {
    text-align: center;
