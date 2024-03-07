@@ -7,24 +7,18 @@
   --dark: hsl(0, 0%, 0%);
 }
 
-
 body {
   display: grid;
   place-items: center;
   min-height: 100vh;
   margin: 0;
   background-color: rgba(26, 26, 26, 255);
+  padding: 5px;
 }
 
 footer {
   text-align: center;
   color: whitesmoke;
-}
-
-body {
-  margin: 0;
-  padding: 5px;
-  background: rgba(26, 26, 26, 255);
 }
 
 ul {
@@ -35,6 +29,7 @@ ul {
   margin: 0;
   padding: 0;
   display: flex;
+  list-style-type: none;
 }
 
 ul li a {
