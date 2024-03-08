@@ -38,6 +38,7 @@ ul li a {
 
 .social ul li a {
   padding-top: 50px;
+  position: absolute;
 }
 
 .middle{
