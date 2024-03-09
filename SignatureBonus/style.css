@@ -1,20 +1,11 @@
-.columns {
-    display: inline-block;
-    padding: 10;
-}
-
 .img{
-    width: 50px;
-}
+    display: inline-block;
+    }
 
-.top {
+.info {
     color: #000000;
-    float: left;
     border-left: .25pt solid #000000;
     padding: 10px;
     font-size: 100;
-}
-
-.bottom {
-    font-size: 16;
+    display: inline-block;
 }
